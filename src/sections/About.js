@@ -19,7 +19,7 @@ export const About = React.forwardRef((props, ref) => {
             <Image src={me} imageClassName="rounded-xl" />
           </div>
           <div className="flex flex-col p-10  w-full justify-center">
-            <p className="font-light text-5xl mb-10">Fred Adu Twum</p>
+            <p className="font-light text-5xl mb-10">Fred Adu Twum</p >
 
             <span className="text-xl md:text-2xl font-light">
               I am a Front End Developer, UI, and UX Designer currently living
