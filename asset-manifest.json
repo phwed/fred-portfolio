@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fred-portfolio/static/css/main.9ab3d4ef.css",
+    "main.js": "/fred-portfolio/static/js/main.57bb0d68.js",
+    "static/js/787.e5d0f310.chunk.js": "/fred-portfolio/static/js/787.e5d0f310.chunk.js",
+    "static/media/justis.svg": "/fred-portfolio/static/media/justis.cb1574502c14fffb692a8ca709e1ca23.svg",
+    "static/media/talkertive-mom.svg": "/fred-portfolio/static/media/talkertive-mom.d00b1c7ba21c6cc80d18d66bbb2f5a94.svg",
+    "static/media/claims.svg": "/fred-portfolio/static/media/claims.f94ca1fac87644bc25f6a1b4d8bdd58b.svg",
+    "static/media/primeicons.svg": "/fred-portfolio/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/primeicons.eot": "/fred-portfolio/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/fred-portfolio/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/fred-portfolio/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "index.html": "/fred-portfolio/index.html",
+    "main.9ab3d4ef.css.map": "/fred-portfolio/static/css/main.9ab3d4ef.css.map",
+    "main.57bb0d68.js.map": "/fred-portfolio/static/js/main.57bb0d68.js.map",
+    "787.e5d0f310.chunk.js.map": "/fred-portfolio/static/js/787.e5d0f310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ab3d4ef.css",
+    "static/js/main.57bb0d68.js"
+  ]
+}
