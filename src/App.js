@@ -20,7 +20,7 @@ function App() {
     <Main>
       <Home id="home" />
       <Work id="work" />
-      <Testimonials id="testimonials" />
+      {/* <Testimonials id="testimonials" /> */}
       <About id="about" />
     </Main>
   );

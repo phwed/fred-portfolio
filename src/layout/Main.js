@@ -14,11 +14,11 @@ export default function Main({ children }) {
         <h1 className="px-5 md:px-10  text-md md:text-xl cursor-pointer hover:text-lg  md:hover:text-3xl ease-in-out duration-300 ">
           <a href="#work"> Work</a>
         </h1>
-        <h1 className="px-5 md:px-10  text-md md:text-xl cursor-pointer hover:text-lg  md:hover:text-3xl ease-in-out duration-300 ">
+        {/* <h1 className="px-5 md:px-10  text-md md:text-xl cursor-pointer hover:text-lg  md:hover:text-3xl ease-in-out duration-300 ">
           <a href="#testimonials">Testimonials</a>
-        </h1>
+        </h1> */}
         <h1 className="px-5 md:px-10 text-md md:text-xl cursor-pointer hover:text-lg  md:hover:text-3xl ease-in-out duration-300 ">
-          <a href="#about"> About</a>
+          <a href="#about"> About Me</a>
         </h1>
       </nav>
 
