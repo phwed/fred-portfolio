@@ -1,6 +1,6 @@
 {
   "name": "fred-portfolio",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "private": true,
   "homepage": "https://phwed.github.io/fred-portfolio",
   "dependencies": {
