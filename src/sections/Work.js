@@ -72,11 +72,11 @@ export const Work = React.forwardRef((props, ref) => {
       <div className="flex flex-row rounded-lg p-3 md:p-10 bg-lighterGold my-5">
         <div className="flex flex-col justify-center  w-1/2">
           <p className="px-3 text-xl md:text-2xl lg:text-4xl mb-5">
-            Claims Portal
+            Busy Projects
           </p>
           <span className="font-light px-5 md:text-lg mb-5 hidden lg:block">
-            A portal for monitoring the claims made by claimant for an insurance
-            company
+            Highlighted is the busy website however a pletora of projects were
+            undertaken with Busy Internet Ghana of which the public website is the most noticable
           </span>
           <span className="px-3 flex flex-wrap justify-start">
             <a

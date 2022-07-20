@@ -10,16 +10,27 @@ import * as facebook from "../assets/lottie/facebook.json";
 import * as twitter from "../assets/lottie/twitter.json";
 import * as instagram from "../assets/lottie/instagram.json";
 
+import facebookImg from "../assets/Facebook.svg";
+import instagramImg from "../assets/Instagram.svg";
+import twitterImg from "../assets/Twitter.svg";
+import linkedinImg from "../assets/Linkedin.svg";
+
 export const About = React.forwardRef((props, ref) => {
   return (
-    <section ref={ref} id={props.id} className="bg-gold flex lg:h-screen flex-col">
+    <section
+      ref={ref}
+      id={props.id}
+      className="bg-gold flex lg:h-screen flex-col"
+    >
       <div className="mt-20 ">
         <div className="mx-5 md:mx-10 lg:mx-20 mt-5 flex flex-col lg:flex-row gap-5 ">
           <div className="flex flex-col  w-full">
             <Image src={me} imageClassName="rounded-xl" />
           </div>
           <div className="flex flex-col p-10  w-full justify-center">
-            <p className="font-light text-5xl mb-10">Fred Adu Twum</p >
+            <p className="font-light text-3xl md:text-5xl mb-10">
+              Fred Adu Twum
+            </p>
 
             <span className="text-xl md:text-2xl font-light">
               I am a Front End Developer, UI, and UX Designer currently living
@@ -59,42 +70,20 @@ export const About = React.forwardRef((props, ref) => {
               or any of my social media accounts below.
             </span>
 
-            <div className="flex flex-row gap-5 justify-around flex-wrap mt-10">
+            <div className="flex flex-row gap-5 justify-around align-middle flex-wrap mt-10">
               <a
                 href="https://www.linkedin.com/in/fredadutwum/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <Lottie
-                  options={{
-                    loop: true,
-                    autoplay: true,
-                    animationData: linkedin,
-                    rendererSettings: {
-                      preserveAspectRatio: "xMidYMid slice",
-                    },
-                  }}
-                  height={100}
-                  width={50}
-                />
+                <Image src={linkedinImg} />
               </a>
               <a
                 href="https://twitter.com/phredstur"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <Lottie
-                  options={{
-                    loop: true,
-                    autoplay: true,
-                    animationData: twitter,
-                    rendererSettings: {
-                      preserveAspectRatio: "xMidYMid slice",
-                    },
-                  }}
-                  height={100}
-                  width={50}
-                />
+                <Image src={twitterImg} />
               </a>
 
               <a
@@ -102,36 +91,14 @@ export const About = React.forwardRef((props, ref) => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <Lottie
-                  options={{
-                    loop: true,
-                    autoplay: true,
-                    animationData: facebook,
-                    rendererSettings: {
-                      preserveAspectRatio: "xMidYMid slice",
-                    },
-                  }}
-                  height={100}
-                  width={50}
-                />
+                <Image src={facebookImg} />
               </a>
               <a
                 href="https://www.instagram.com/phredhi/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <Lottie
-                  options={{
-                    loop: true,
-                    autoplay: true,
-                    animationData: instagram,
-                    rendererSettings: {
-                      preserveAspectRatio: "xMidYMid slice",
-                    },
-                  }}
-                  height={100}
-                  width={50}
-                />
+                <Image src={instagramImg} />
               </a>
               <a
                 href="https://github.com/phwed"
@@ -147,7 +114,7 @@ export const About = React.forwardRef((props, ref) => {
                       preserveAspectRatio: "xMidYMid slice",
                     },
                   }}
-                  height={100}
+                  height={70}
                   width={50}
                 />
               </a>

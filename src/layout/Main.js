@@ -8,16 +8,16 @@ export default function Main({ children }) {
         {/* <div className="block md:hidden">
           <Button icon="pi pi-bars" className="p-button-text p-button-raised" />
         </div> */}
-        <h1 className="px-5 md:px-10 text-md md:text-xl cursor-pointer  hover:text-lg md:hover:text-3xl ease-in-out duration-300 ">
+        <h1 className="px-5 md:px-10 text-md md:text-xl font-light cursor-pointer  hover:text-lg md:hover:text-3xl ease-in-out duration-300 ">
           <a href="#home"> Home</a>
         </h1>
-        <h1 className="px-5 md:px-10  text-md md:text-xl cursor-pointer hover:text-lg  md:hover:text-3xl ease-in-out duration-300 ">
+        <h1 className="px-5 md:px-10  text-md md:text-xl font-light cursor-pointer hover:text-lg  md:hover:text-3xl ease-in-out duration-300 ">
           <a href="#work"> Work</a>
         </h1>
         {/* <h1 className="px-5 md:px-10  text-md md:text-xl cursor-pointer hover:text-lg  md:hover:text-3xl ease-in-out duration-300 ">
           <a href="#testimonials">Testimonials</a>
         </h1> */}
-        <h1 className="px-5 md:px-10 text-md md:text-xl cursor-pointer hover:text-lg  md:hover:text-3xl ease-in-out duration-300 ">
+        <h1 className="px-5 md:px-10 text-md md:text-xl font-light cursor-pointer hover:text-lg  md:hover:text-3xl ease-in-out duration-300 ">
           <a href="#about"> About Me</a>
         </h1>
       </nav>
