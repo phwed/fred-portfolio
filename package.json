@@ -1,8 +1,8 @@
 {
-  "name": "fred-portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://phwed.github.io/fred-portfolio",
+  "homepage": "https://phwed.github.io/portfolio",
   "dependencies": {
     "@heroicons/react": "^1.0.6",
     "@testing-library/jest-dom": "^5.16.4",
