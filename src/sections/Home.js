@@ -26,7 +26,7 @@ const Home = (props) => {
               <h1 className="text-3xl md:text-4xl lg:text-6xl  font-bold mb-5">
                 A Frontend Developer
               </h1>
-              <h1 className=" md:text-4xl lg:text-6xl  font-bold mb-5">
+              <h1 className="text-3xl md:text-4xl lg:text-6xl  font-bold mb-5">
                 & A UI UX Designer
               </h1>
             </div>
