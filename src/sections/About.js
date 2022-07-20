@@ -4,11 +4,8 @@ import { button } from "primereact/button";
 import me from "../assets/phred.jpg";
 
 import Lottie from "react-lottie";
-import * as linkedin from "../assets/lottie/linkedin.json";
 import * as github from "../assets/lottie/github.json";
-import * as facebook from "../assets/lottie/facebook.json";
-import * as twitter from "../assets/lottie/twitter.json";
-import * as instagram from "../assets/lottie/instagram.json";
+
 
 import facebookImg from "../assets/Facebook.svg";
 import instagramImg from "../assets/Instagram.svg";
