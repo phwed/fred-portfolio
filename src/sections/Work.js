@@ -12,7 +12,7 @@ export const Work = React.forwardRef((props, ref) => {
     <section
       ref={ref}
       id={props.id}
-      className="bg-gold flex  flex-col pt-10 px-3 md:px-10 lg:px-20"
+      className="bg-lightGold flex  flex-col pt-10 px-3 md:px-10 lg:px-20"
     >
       <div className="mt-5 md:mt-10">
         <h1 className="text-2xl font-medium pt-5">Featured Works</h1>

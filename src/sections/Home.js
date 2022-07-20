@@ -8,7 +8,7 @@ const Home = (props) => {
   return (
     <section
       id={props.id}
-      className="bg-lightGold flex md:h-screen flex-col"
+      className="bg-gold flex md:h-screen flex-col"
       style={{
         marginTop: -65,
       }}
