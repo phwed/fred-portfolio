@@ -21,7 +21,7 @@ const Home = (props) => {
             </div>
             <div className="mt-8">
               <h1 className="text-3xl md:text-4xl lg:text-6xl font-bold mb-5">
-                I'm Phred,
+                I'm Fred,
               </h1>
               <h1 className="text-3xl md:text-4xl lg:text-6xl  font-bold mb-5">
                 A Frontend Developer
@@ -37,7 +37,7 @@ const Home = (props) => {
               <a
                 href={`mailto:${"apps.fred.adu@gmail.com"}?subject=${
                   encodeURIComponent("Request For Service") || ""
-                }&body=${encodeURIComponent("Hi Phred,") || ""}`}
+                }&body=${encodeURIComponent("Hi Fred,") || ""}`}
               >
                 <Button label="Contact Me" className="p-button-outlined" />
               </a>
