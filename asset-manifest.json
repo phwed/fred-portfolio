@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fred-portfolio/static/css/main.05f2ea3e.css",
-    "main.js": "/fred-portfolio/static/js/main.906f236e.js",
+    "main.js": "/fred-portfolio/static/js/main.012a25f1.js",
     "static/js/787.e5d0f310.chunk.js": "/fred-portfolio/static/js/787.e5d0f310.chunk.js",
     "static/media/claims.svg": "/fred-portfolio/static/media/claims.46152aff3f1be184b292f971c7d3aca7.svg",
     "static/media/justis.svg": "/fred-portfolio/static/media/justis.cb1574502c14fffb692a8ca709e1ca23.svg",
@@ -17,11 +17,11 @@
     "static/media/Facebook.svg": "/fred-portfolio/static/media/Facebook.83d40fc1e4bf4a7d102840a0a6ae4b81.svg",
     "index.html": "/fred-portfolio/index.html",
     "main.05f2ea3e.css.map": "/fred-portfolio/static/css/main.05f2ea3e.css.map",
-    "main.906f236e.js.map": "/fred-portfolio/static/js/main.906f236e.js.map",
+    "main.012a25f1.js.map": "/fred-portfolio/static/js/main.012a25f1.js.map",
     "787.e5d0f310.chunk.js.map": "/fred-portfolio/static/js/787.e5d0f310.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05f2ea3e.css",
-    "static/js/main.906f236e.js"
+    "static/js/main.012a25f1.js"
   ]
 }
