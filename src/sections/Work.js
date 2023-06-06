@@ -47,16 +47,16 @@ export const Work = React.forwardRef((props, ref) => {
       <div className="flex flex-row rounded-lg p-3 md:p-10 bg-lighterGold my-5">
         <div className="flex flex-col justify-center  w-1/2">
           <p className="px-3 text-xl md:text-2xl lg:text-4xl mb-5">
-            Justis Portal Africa
+            Justis Africa
           </p>
           <span className="font-light px-5 md:text-lg mb-5 hidden lg:block">
             A project for Just transitions within formal and informal sectors in
-            over 4 different african countries
+            over 5 different african countries
           </span>
           <span className="px-3 flex flex-wrap justify-start">
             <a
               className="font-light text-gray-dark hover:text-green"
-              href="https://greenafricaportal.net/"
+              href="https://justis.africa/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -72,16 +72,17 @@ export const Work = React.forwardRef((props, ref) => {
       <div className="flex flex-row rounded-lg p-3 md:p-10 bg-lighterGold my-5">
         <div className="flex flex-col justify-center  w-1/2">
           <p className="px-3 text-xl md:text-2xl lg:text-4xl mb-5">
-            Busy Projects
+            Donewell Life Applications
           </p>
           <span className="font-light px-5 md:text-lg mb-5 hidden lg:block">
-            Highlighted is the busy website however a pletora of projects were
-            undertaken with Busy Internet Ghana of which the public website is the most noticable
+            I have built a pletora of applications for Donewellife including a
+            claims management system, a mobile app for their agents and a web
+            app for their customers. Highlighted is the agency app
           </span>
           <span className="px-3 flex flex-wrap justify-start">
             <a
               className="font-light text-gray-dark hover:text-green"
-              href="https://donewelllife.com.gh/"
+              href="https://portal.donewelllife.com.gh/"
               target="_blank"
               rel="noopener noreferrer"
             >

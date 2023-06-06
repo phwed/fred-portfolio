@@ -30,16 +30,16 @@ export const About = React.forwardRef((props, ref) => {
             </p>
 
             <span className="text-xl md:text-2xl font-light">
-              I am a Front End Developer, UI, and UX Designer currently living
-              in Accra, Ghana. My interests range from design to software
-              development. I am also interested in music, writing, and making
-              animations.
+              I am a Front End Developer, UI, and UX Designer living in Accra,
+              Ghana. My interests range from designing friendly user interfaces
+              to building software, websites, web apps, and mobile apps. I am
+              also interested in music, writing, and making animations.
             </span>
 
             <div className="my-10">
               <a
                 className="px-5 py-3 border-emerald-600 border rounded-md hover:bg-emerald-600 hover:cursor-pointer hover:text-white"
-                href="https://drive.google.com/file/d/1xh40eUk09fEl0NTg9o7oz_FQRVMP_tFJ/view?usp=sharing"
+                href="https://drive.google.com/file/d/1jSMR5Rb3Vue0iB2qIUcD_eqNkk8Gcshq/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >
