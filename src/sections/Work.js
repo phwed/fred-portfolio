@@ -82,7 +82,7 @@ export const Work = React.forwardRef((props, ref) => {
           <span className="px-3 flex flex-wrap justify-start">
             <a
               className="font-light text-gray-dark hover:text-green"
-              href="https://portal.donewelllife.com.gh/"
+              href="https://donewelllife.com.gh/"
               target="_blank"
               rel="noopener noreferrer"
             >
