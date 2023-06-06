@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/fred-portfolio/static/css/main.5ab0239e.css",
-    "main.js": "/fred-portfolio/static/js/main.b7b689a8.js",
+    "main.js": "/fred-portfolio/static/js/main.243cb2bb.js",
     "static/js/787.e5d0f310.chunk.js": "/fred-portfolio/static/js/787.e5d0f310.chunk.js",
-    "static/media/claims.svg": "/fred-portfolio/static/media/claims.46152aff3f1be184b292f971c7d3aca7.svg",
-    "static/media/justis.svg": "/fred-portfolio/static/media/justis.cb1574502c14fffb692a8ca709e1ca23.svg",
+    "static/media/justis.svg": "/fred-portfolio/static/media/justis.c9b17b367e1f9185f1cb9ccbe42caed2.svg",
+    "static/media/claims.svg": "/fred-portfolio/static/media/claims.d900d171e1f78ddddadba6a4fe5f7dc1.svg",
     "static/media/talkertive-mom.svg": "/fred-portfolio/static/media/talkertive-mom.d00b1c7ba21c6cc80d18d66bbb2f5a94.svg",
     "static/media/phred.jpg": "/fred-portfolio/static/media/phred.e7abed2bd3599c16e9e9.jpg",
     "static/media/primeicons.svg": "/fred-portfolio/static/media/primeicons.c6e2053303524e39530c.svg",
@@ -17,11 +17,11 @@
     "static/media/Facebook.svg": "/fred-portfolio/static/media/Facebook.83d40fc1e4bf4a7d102840a0a6ae4b81.svg",
     "index.html": "/fred-portfolio/index.html",
     "main.5ab0239e.css.map": "/fred-portfolio/static/css/main.5ab0239e.css.map",
-    "main.b7b689a8.js.map": "/fred-portfolio/static/js/main.b7b689a8.js.map",
+    "main.243cb2bb.js.map": "/fred-portfolio/static/js/main.243cb2bb.js.map",
     "787.e5d0f310.chunk.js.map": "/fred-portfolio/static/js/787.e5d0f310.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ab0239e.css",
-    "static/js/main.b7b689a8.js"
+    "static/js/main.243cb2bb.js"
   ]
 }
